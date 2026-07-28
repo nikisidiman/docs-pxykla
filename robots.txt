@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-r37l51.koi888.cfd/sitemap.xml
